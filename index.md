@@ -1,1094 +1,1637 @@
-PACKS
-=====
+<div class="ut-fifa-header-view">[Back to FIFA](https://www.ea.com/fifa/ultimate-team/features)[](https://www.ea.com)</div>
 
-131.183
+<div id="futweb-loader" style="display: none;">![](images/loader.gif)</div>
 
-0
+<main class="ut-root-view">
 
-Gründ.: Mär 2020Scranton FC
+<section class="ut-tab-bar-view game-navigation" style="width: 100%; height: 100%;">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/items/images/mobile/clubs/dark/115868.png)
+<section class="ut-navigation-container-view">
 
-Meine PacksPROMO-PACKSGOLD-PACKSKLASSISCHE PACKSVorschau
+<div class="ut-navigation-bar-view navbar-style-landscape currency-purchase"># PACKS
 
-Nicht zugewiesen
-================
+<div class="view-navbar-currency" style="">
 
-0Items  
-übrig
+<div class="view-navbar-currency-coins">131,183</div>
 
-GOLD-PACK
-=========
+<div class="view-navbar-currency-points">0</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)
+</div>
 
-GEMISCHT
+<div class="view-navbar-clubinfo" style="">
 
-12ITEMS
+<div class="view-navbar-clubinfo-data"><span class="view-navbar-clubinfo-est">Est. Mar 2020</span><span class="view-navbar-clubinfo-name">Scranton FC</span></div>
 
-1SELTEN
+![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/items/images/mobile/clubs/dark/115868.png)</div>
 
-Ideal, um Topspieler zu finden. 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, 1 Selten.
+<button class="ut-iteminfochange-button-control btn-navigation-secondary" data-info-state="main"><span></span></button></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-navigation-container-view--content" style="top: 64px;">
 
-GOLD-PACK
-=========
+<div class="ut-store-hub-view">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)
+<div class="ea-filter-bar-view">
 
-GEMISCHT
+<div class="menu-container"><button class="ea-filter-bar-item-view selected">My Packs</button><button class="ea-filter-bar-item-view">PROMO PACKS</button><button class="ea-filter-bar-item-view">GOLD PACKS</button><button class="ea-filter-bar-item-view">CLASSIC PACKS</button><button class="ea-filter-bar-item-view">Previewed</button></div>
 
-12ITEMS
+</div>
 
-1SELTEN
+<div class="ut-store-hub-view--content">
 
-Ideal, um Topspieler zu finden. 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, 1 Selten.
+<div class="ut-unassigned-tile-view tile" style="display: none;">
 
-ÖffnenHol dir dein Pack
+<header># Unassigned Items</header>
 
-GOLD-PACK
-=========
+<div class="data-container"><span class="itemsNumber">0</span><span class="itemsLabel">Items Remaining</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)
+</div>
 
-GEMISCHT
+<div class="ut-store-pack-details-view is-tradeable"># <span>GOLD PACK</span>
 
-12ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)</div>
 
-1SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Ideal, um Topspieler zu finden. 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, 1 Selten.
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-PREMIUM-GOLD-PACK
-=================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-GEMISCHT
+</div>
 
-12ITEMS
+Great value for finding top-rated players. A mix of 12 Gold items, including players and consumables, 1 Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-3SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Eine Mischung aus 12 Gold-Items, darunter Spieler und Verbrauchs-Items, 3 selten.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-tradeable"># <span>GOLD PACK</span>
 
-JUMBO-PREMIUM-GOLD-PACK
-=======================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)
+<div class="ut-store-pack-details-view--content">
 
-GEMISCHT
+<div class="ut-store-pack-details-view--pack-counts">
 
-24ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-7SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-Doppelte Größe des Premium Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Seltene.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-JUMBO-PREMIUM-GOLD-PACK
-=======================
+Great value for finding top-rated players. A mix of 12 Gold items, including players and consumables, 1 Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-GEMISCHT
+</div>
 
-24ITEMS
+<div class="ut-store-pack-details-view is-untradeable"># <span>GOLD PACK</span>
 
-7SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)</div>
 
-Doppelte Größe des Premium Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Seltene.
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-JUMBO-PREMIUM-GOLD-PACK
-=======================
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-GEMISCHT
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-24ITEMS
+</div>
 
-7SELTEN
+Great value for finding top-rated players. A mix of 12 Gold items, including players and consumables, 1 Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Doppelte Größe des Premium Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Seltene.
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-GOLDSPIELER-PACK
-================
+<div class="ut-store-pack-details-view is-untradeable"># <span>PREMIUM GOLD PACK</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)</div>
 
-SPIELER
+<div class="ut-store-pack-details-view--content">
 
-12ITEMS
+<div class="ut-store-pack-details-view--pack-counts">
 
-1SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Goldspieler, 1 Selten.
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-PREMIUM-GOLDSPIELER-PACK
-========================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+A mix of 12 Gold items, including players and consumables, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SPIELER
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-12ITEMS
+</div>
 
-3SELTEN
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PACK</span>
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Goldspieler, 3 seltene, darunter garantiert 1 seltener 80+-Spieler.
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-JUMBO-PREMIUM-GOLDSPIELER
-=========================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-24ITEMS
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
 
-7SELTEN
+</div>
 
-Doppelte Größe des Premium-Goldspieler-Packs, ein seltenes Item extra! Enthält 24 Goldspieler, 7 Selten, darunter garantiert 1 seltener 83+-GES-Spieler.
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-JUMBO-GOLD-26-PACK
-==================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PACK</span>
 
-GEMISCHT
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)</div>
 
-26ITEMS
+<div class="ut-store-pack-details-view--content">
 
-3SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Ein Jumbo-Gold-Pack mit 2 Bonus-Items! 26 gemischte Gold-Items, darunter Spieler und Verbrauchs-Items, 3 Selten.
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-SELTENE-SPIELER-PACK
-====================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-12ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-12SELTEN
+</div>
 
-Einzigartige Topspieler, in einem Pack vereint! Enthält 12 Items, alle Spieler, alle Gold, alle selten, darunter garantiert 1 seltener 83+-GES-Spieler.
+<div class="ut-store-pack-details-view is-tradeable"># <span>JUMBO PREMIUM GOLD PACK</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)</div>
 
-JUMBO-SELTENE-SPIELER-PACK
-==========================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-SPIELER
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-24ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-24SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
 
-Einzigartige Topspieler, in einem Pack vereint! 24 Items, alle Spieler, alle Gold, alle selten, darunter garantiert 1 seltener 84+-Spieler.
+</div>
 
-ÖffnenHol dir dein Pack
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-JUMBO-SELTENE-SPIELER-PACK
-==========================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+<div class="ut-store-pack-details-view is-tradeable"># <span>GOLD PLAYERS PACK</span>
 
-24ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)</div>
 
-24SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Einzigartige Topspieler, in einem Pack vereint! 24 Items, alle Spieler, alle Gold, alle selten, darunter garantiert 1 seltener 84+-Spieler.
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-JUMBO-SELTENE-SPIELER-PACK
-==========================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-SPIELER
+</div>
 
-24ITEMS
+Nothing but players to build out your ultimate squads! Includes 12 Gold players, 1 Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-24SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Einzigartige Topspieler, in einem Pack vereint! 24 Items, alle Spieler, alle Gold, alle selten, darunter garantiert 1 seltener 84+-Spieler.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-tradeable"># <span>PREMIUM GOLD PLAYERS PACK</span>
 
-MEGA-PACK
-=========
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--content">
 
-GEMISCHT
+<div class="ut-store-pack-details-view--pack-counts">
 
-30ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-18SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-Das bisher GRÖSSTE Pack, mit 30, ja genau, DREISSIG Items! Spieler und Verbrauchs-Items, alle Gold, 18 seltene, darunter garantiert 1 seltener 82+-GES-Spieler.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-MEGA-PACK
-=========
+Nothing but players to build out your ultimate squads! Includes 12 Gold players, 3 Rares including one 80+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-GEMISCHT
+</div>
 
-30ITEMS
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PLAYERS</span>
 
-18SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)</div>
 
-Das bisher GRÖSSTE Pack, mit 30, ja genau, DREISSIG Items! Spieler und Verbrauchs-Items, alle Gold, 18 seltene, darunter garantiert 1 seltener 82+-GES-Spieler.
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-MEGA-PACK
-=========
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-GEMISCHT
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
 
-30ITEMS
+</div>
 
-18SELTEN
+Double the size of a Premium Gold Players Pack with an extra Rare! Contains 24 Gold players, 7 Rares including one 83+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Das bisher GRÖSSTE Pack, mit 30, ja genau, DREISSIG Items! Spieler und Verbrauchs-Items, alle Gold, 18 seltene, darunter garantiert 1 seltener 82+-GES-Spieler.
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-MEGA-PACK
-=========
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO GOLD 26 PACK</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)</div>
 
-GEMISCHT
+<div class="ut-store-pack-details-view--content">
 
-30ITEMS
+<div class="ut-store-pack-details-view--pack-counts">
 
-18SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-Das bisher GRÖSSTE Pack, mit 30, ja genau, DREISSIG Items! Spieler und Verbrauchs-Items, alle Gold, 18 seltene, darunter garantiert 1 seltener 82+-GES-Spieler.
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">26</span><span class="label">ITEMS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-SELTENER SPIELER (82+)
-======================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)
+A Jumbo Gold Pack with 2 bonus items! A mix of 26 Gold items, including players and consumables, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SPIELER
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-1Item
+</div>
 
-1SELTEN
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE PLAYERS PACK</span>
 
-Garantiert 1 seltener Goldspieler (82 oder höher).
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-PRIME-ELECTRUM-SPIELER-PACK
-===========================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-12ITEMS
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
 
-6SELTEN
+</div>
 
-Ein Hybrid-Pack mit Goldspielern und Silberspielern! 12 Spieler, 6 Gold, 6 Silber, 6 seltene, darunter garantiert 1 seltener 80+-Spieler.
+The most unique top-rated players, all in a single pack! Contains 12 items, all players, all Gold, all Rare including one 83+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-PRIME-GEMISCHTE-SPIELER-PACK
-============================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO RARE PLAYERS PACK</span>
 
-SPIELER
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-12ITEMS
+<div class="ut-store-pack-details-view--content">
 
-6SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Spieler, 4 Gold, 4 Silber, 4 Bronze, 6 Selten.
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-SELTENE-GEMISCHTE-SPIELER-PACK
-==============================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+The most unique top-rated players, all in a single pack! Includes 24 items, all players, all Gold, all Rare including one 84+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-12ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-12SELTEN
+</div>
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Spieler, 4 Gold, 4 Silber, 4 Bronze, alle selten, darunter garantiert 1 seltener 81+-Spieler.
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO RARE PLAYERS PACK</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SELTENE-GEMISCHTE-SPIELER-PACK
-==============================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-SPIELER
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-12ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-12SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">RARE</span></div>
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Spieler, 4 Gold, 4 Silber, 4 Bronze, alle selten, darunter garantiert 1 seltener 81+-Spieler.
+</div>
 
-ÖffnenHol dir dein Pack
+The most unique top-rated players, all in a single pack! Includes 24 items, all players, all Gold, all Rare including one 84+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-PREMIUM-SPIELER: PL
-===================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO RARE PLAYERS PACK</span>
 
-12ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-3SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Nichts als Spieler. Ideal, um PL-Mannschaften aufzubauen. 12 PL-Goldspieler, 3 Selten.
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-PREMIUM-SPIELER: LIGUE 1
-========================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">RARE</span></div>
 
-SPIELER
+</div>
 
-12ITEMS
+The most unique top-rated players, all in a single pack! Includes 24 items, all players, all Gold, all Rare including one 84+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-3SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Nichts als Spieler. Ideal, um Ligue 1-Mannschaften aufzubauen. 12 Ligue 1-Goldspieler, 3 Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-tradeable"># <span>MEGA PACK</span>
 
-PREMIUM-SPIELER: SERIE A
-========================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--content">
 
-SPIELER
+<div class="ut-store-pack-details-view--pack-counts">
 
-12ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-3SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">30</span><span class="label">ITEMS</span></div>
 
-Nichts als Spieler. Ideal, um Serie A-Mannschaften aufzubauen. 12 Serie A-Goldspieler, 3 Selten.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">18</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-PREMIUM-SPIELER: LALIGA
-=======================
+The BIGGEST pack yet with a whopping 30, yes THIRTY, items! A mix of players and consumables, all Gold, 18 Rares including one 82+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-SPIELER
+</div>
 
-12ITEMS
+<div class="ut-store-pack-details-view is-untradeable"># <span>MEGA PACK</span>
 
-3SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-Nichts als Spieler. Ideal, um LaLiga-Mannschaften aufzubauen. 12 LaLiga-Goldspieler, 3 Selten.
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-PRIME-SPIELER: LALIGA
-=====================
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">30</span><span class="label">ITEMS</span></div>
 
-SPIELER
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">18</span><span class="label">RARE</span></div>
 
-12ITEMS
+</div>
 
-6SELTEN
+The BIGGEST pack yet with a whopping 30, yes THIRTY, items! A mix of players and consumables, all Gold, 18 Rares including one 82+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Nichts als Spieler. Ideal, um LaLiga-Mannschaften aufzubauen. 12 LaLiga-Goldspieler, 6 Selten.
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-SELTENER SPIELER (75+)
-======================
+<div class="ut-store-pack-details-view is-untradeable"># <span>MEGA PACK</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SPIELER
+<div class="ut-store-pack-details-view--content">
 
-1Item
+<div class="ut-store-pack-details-view--pack-counts">
 
-1SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-Garantiert 1 seltener Goldspieler (75 oder höher).
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">30</span><span class="label">ITEMS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">18</span><span class="label">RARE</span></div>
 
-SELTENER SPIELER (75+)
-======================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+The BIGGEST pack yet with a whopping 30, yes THIRTY, items! A mix of players and consumables, all Gold, 18 Rares including one 82+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SPIELER
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-1Item
+</div>
 
-1SELTEN
+<div class="ut-store-pack-details-view is-untradeable"># <span>MEGA PACK</span>
 
-Garantiert 1 seltener Goldspieler (75 oder höher).
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-SELTENER-SPIELER-PACK (85+)
-===========================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">30</span><span class="label">ITEMS</span></div>
 
-1Item
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">18</span><span class="label">RARE</span></div>
 
-1SELTEN
+</div>
 
-Garantiert 1 seltener Goldspieler (85 oder höher)
+The BIGGEST pack yet with a whopping 30, yes THIRTY, items! A mix of players and consumables, all Gold, 18 Rares including one 82+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-SELTENER-SPIELER-PACK (85+)
-===========================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view is-untradeable"># <span>82+ RATED RARE PLAYER</span>
 
-SPIELER
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)</div>
 
-1Item
+<div class="ut-store-pack-details-view--content">
 
-1SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Garantiert 1 seltener Goldspieler (85 oder höher)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">Item</span></div>
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+Guarantees a Rare Gold player rated 82 or higher.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-2ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-2SELTEN
+</div>
 
-Enthält 2 seltene Goldspieler (81+)
+<div class="ut-store-pack-details-view is-tradeable"># <span>PRIME ELECTRUM PLAYERS PACK</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-SPIELER
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-2ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-2SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">RARE</span></div>
 
-Enthält 2 seltene Goldspieler (81+)
+</div>
 
-ÖffnenHol dir dein Pack
+A hybrid pack with a split of Gold and Silver players! Includes 12 players, 6 Gold, 6 Silver, with 6 Rares including one 80+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+<div class="ut-store-pack-details-view is-tradeable"># <span>PRIME MIXED PLAYERS PACK</span>
 
-2ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-2SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Enthält 2 seltene Goldspieler (81+)
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">RARE</span></div>
 
-SPIELER
+</div>
 
-2ITEMS
+Nothing but players to build out your ultimate squads! Includes 12 players, 4 Gold, 4 Silver, 4 Bronze, with 6 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-2SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Enthält 2 seltene Goldspieler (81+)
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE MIXED PLAYERS PACK</span>
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--content">
 
-SPIELER
+<div class="ut-store-pack-details-view--pack-counts">
 
-2ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-2SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-Enthält 2 seltene Goldspieler (81+)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-2 SELTENE SPIELER (81+)
-=======================
+Nothing but players to build out your ultimate squads! Includes 12 players, 4 Gold, 4 Silver, 4 Bronze, all Rare including one 81+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-SPIELER
+</div>
 
-2ITEMS
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE MIXED PLAYERS PACK</span>
 
-2SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-Enthält 2 seltene Goldspieler (81+)
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-2 SELTENE SPIELER (81+)
-=======================
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-SPIELER
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
 
-2ITEMS
+</div>
 
-2SELTEN
+Nothing but players to build out your ultimate squads! Includes 12 players, 4 Gold, 4 Silver, 4 Bronze, all Rare including one 81+ OVR Rare player guaranteed.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Enthält 2 seltene Goldspieler (81+)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-ZWEI SELTENE SPIELER (86+)
-==========================
+<div class="ut-store-pack-details-view is-tradeable"># <span>PL PREMIUM PLAYERS</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SPIELER
+<div class="ut-store-pack-details-view--content">
 
-2ITEMS
+<div class="ut-store-pack-details-view--pack-counts">
 
-2SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-Enthält 2 seltene Goldspieler (86 oder höher)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-PRIME GAMING-PACK
-=================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_13.png)![](images/transparent.png)
+Nothing but players to build out your PL squads! Includes 12 PL Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-GEMISCHT
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-22ITEMS
+</div>
 
-22SELTEN
+<div class="ut-store-pack-details-view is-tradeable"># <span>LIGUE 1 PREMIUM PLAYERS</span>
 
-Prime Gaming-Exklusivpack! Enthält 7 seltene Goldspieler, 2-Spieler-Wahl mit mind. 82+ GES, 12 seltene Verbrauchs-Items und 1 Neymar-Leihspieler für 20 Partien
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-FÜNF-83+-SELTENE-EFIGS-SPIELER-PACK
-===================================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-5ITEMS
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-5SELTEN
+</div>
 
-Enthält 5 seltene Goldspieler (83 oder höher) aus Premier League, Ligue 1, Serie A, Bundesliga und LaLiga
+Nothing but players to build out your Ligue 1 squads! Includes 12 Ligue 1 Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ELF-81+-LALIGA-PACK
-===================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view is-tradeable"># <span>SERIE A PREMIUM PLAYERS</span>
 
-SPIELER
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-11ITEMS
+<div class="ut-store-pack-details-view--content">
 
-11SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Enthält 11 seltene Goldspieler aus LaLiga (81 oder höher)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-ZWEI-80+-SELTENE-EFIGS-SPIELER-PACK
-===================================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+Nothing but players to build out your Serie A squads! Includes 12 Serie A Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-2ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-2SELTEN
+</div>
 
-Enthält 2 seltene Goldspieler (80 oder höher) aus Premier League, Ligue 1, Serie A, Bundesliga und LaLiga
+<div class="ut-store-pack-details-view is-tradeable"># <span>LALIGA PREMIUM PLAYERS</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ZWEI-80+-SELTENE-EFIGS-SPIELER-PACK
-===================================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-SPIELER
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-2ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-2SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
 
-Enthält 2 seltene Goldspieler (80 oder höher) aus Premier League, Ligue 1, Serie A, Bundesliga und LaLiga
+</div>
 
-ÖffnenHol dir dein Pack
+Nothing but players to build out your LaLiga squads! Includes 12 LaLiga Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ELF-81+-PREMIER LEAGUE-PACK
-===========================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+<div class="ut-store-pack-details-view is-untradeable"># <span>LALIGA PRIME PLAYERS</span>
 
-11ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-11SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Enthält 11 seltene Goldspieler aus der Premier League (81 oder höher)
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-PREMIUM-GOLD-JUMBO
-==================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">RARE</span></div>
 
-GEMISCHT
+</div>
 
-24ITEMS
+Nothing but players to build out your LaLiga squads! Includes 12 LaLiga Gold players, 6 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-7SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Doppelte Größe des Premium-Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-untradeable"># <span>75+ RATED RARE PLAYER</span>
 
-PREMIUM-GOLD-JUMBO
-==================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)
+<div class="ut-store-pack-details-view--content">
 
-GEMISCHT
+<div class="ut-store-pack-details-view--pack-counts">
 
-24ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-7SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">Item</span></div>
 
-Doppelte Größe des Premium-Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Selten.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-PREMIUM-GOLD-JUMBO
-==================
+Guarantees a Rare Gold Player rated 75 or higher.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-GEMISCHT
+</div>
 
-24ITEMS
+<div class="ut-store-pack-details-view is-untradeable"># <span>75+ RATED RARE PLAYER</span>
 
-7SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-Doppelte Größe des Premium-Gold-Packs, ein seltenes Item extra! 24 gemischte Gold-Items: Spieler und Verbrauchs-Items, 7 Selten.
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-JUMBO-PREMIUM-GOLDSPIELER
-=========================
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">Item</span></div>
 
-SPIELER
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-24ITEMS
+</div>
 
-7SELTEN
+Guarantees a Rare Gold Player rated 75 or higher.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Doppelte Größe des Premium-Goldspieler-Packs, ein seltenes Item extra! 24 Gold-Spieler, 7 Selten.
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-JUMBO-PREMIUM-GOLDSPIELER
-=========================
+<div class="ut-store-pack-details-view is-untradeable"># <span>85+ RATED RARE PLAYER PACK</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SPIELER
+<div class="ut-store-pack-details-view--content">
 
-24ITEMS
+<div class="ut-store-pack-details-view--pack-counts">
 
-7SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-Doppelte Größe des Premium-Goldspieler-Packs, ein seltenes Item extra! 24 Gold-Spieler, 7 Selten.
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">Item</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-JUMBO-PREMIUM-GOLDSPIELER
-=========================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)
+Guarantees a Gold Rare player rated 85 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SPIELER
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-24ITEMS
+</div>
 
-7SELTEN
+<div class="ut-store-pack-details-view is-untradeable"># <span>85+ RATED RARE PLAYER PACK</span>
 
-Doppelte Größe des Premium-Goldspieler-Packs, ein seltenes Item extra! 24 Gold-Spieler, 7 Selten.
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-JUMBO-PREMIUM-GOLDSPIELER
-=========================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">Item</span></div>
 
-24ITEMS
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">1</span><span class="label">RARE</span></div>
 
-7SELTEN
+</div>
 
-Doppelte Größe des Premium-Goldspieler-Packs, ein seltenes Item extra! 24 Gold-Spieler, 7 Selten.
+Guarantees a Gold Rare player rated 85 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-PRIME-GOLDSPIELER (KLEIN)
-=========================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-SPIELER
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-6ITEMS
+<div class="ut-store-pack-details-view--content">
 
-3SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Ein halbes Dutzend Spieler. Ideal, um ultimative Mannschaften aufzubauen. 6 Goldspieler, 3 Selten.
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-PRIME-GOLDSPIELER (KLEIN)
-=========================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)
+</div>
 
-SPIELER
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-6ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-3SELTEN
+</div>
 
-Ein halbes Dutzend Spieler. Ideal, um ultimative Mannschaften aufzubauen. 6 Goldspieler, 3 Selten.
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SELTENES GOLD-PACK
-==================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-GEMISCHT
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-12ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-12SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-Einzigartige Gold-Items, in einem Pack vereint! 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, alle Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SELTENES GOLD-PACK
-==================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-GEMISCHT
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-12ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-12SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Einzigartige Gold-Items, in einem Pack vereint! 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, alle Selten.
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SELTENES GOLD-PACK
-==================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-GEMISCHT
+</div>
 
-12ITEMS
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-12SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Einzigartige Gold-Items, in einem Pack vereint! 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, alle Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-SELTENES GOLD-PACK
-==================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--content">
 
-GEMISCHT
+<div class="ut-store-pack-details-view--pack-counts">
 
-12ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-12SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-Einzigartige Gold-Items, in einem Pack vereint! 12 gemischte Gold-Items: Spieler und Verbrauchs-Items, alle Selten.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-SELTENE-SPIELER-PACK
-====================
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-SPIELER
+</div>
 
-12ITEMS
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-12SELTEN
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+<div class="ut-store-pack-details-view--content">
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--pack-counts">
 
-SELTENE-SPIELER-PACK
-====================
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-SPIELER
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-12ITEMS
+</div>
 
-12SELTEN
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-SELTENE-SPIELER-PACK
-====================
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-SPIELER
+<div class="ut-store-pack-details-view--content">
 
-12ITEMS
+<div class="ut-store-pack-details-view--pack-counts">
 
-12SELTEN
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-SELTENE-SPIELER-PACK
-====================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SPIELER
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-12ITEMS
+</div>
 
-12SELTEN
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 81+ RATED RARE PLAYERS</span>
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--content">
 
-SELTENE-SPIELER-PACK
-====================
+<div class="ut-store-pack-details-view--pack-counts">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SPIELER
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-12ITEMS
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-12SELTEN
+</div>
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+Contains 2 Gold Rare Players rated 81+<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-SELTENE-SPIELER-PACK
-====================
+</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 86+ RATED RARE PLAYERS</span>
 
-SPIELER
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-12ITEMS
+<div class="ut-store-pack-details-view--content">
 
-12SELTEN
+<div class="ut-store-pack-details-view--pack-counts">
 
-Einzigartige Topspieler, in einem Pack vereint! 12 Spieler, alle Gold, alle Selten.
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-ÖffnenHol dir dein Pack
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
 
-JUMBO-SELTENE-SPIELER-PACK
-==========================
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+Contains 2 Gold Rare Players rated 86 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-24ITEMS
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-24SELTEN
+</div>
 
-Einzigartige Topspieler, in einem Pack vereint! 24 Spieler, alle Gold, alle Selten.
+<div class="ut-store-pack-details-view is-untradeable"># <span>PRIME GAMING PACK</span>
 
-ÖffnenHol dir dein Pack
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_13.png)![](images/transparent.png)</div>
 
-JUMBO-SELTENE-SPIELER-PACK
-==========================
+<div class="ut-store-pack-details-view--content">
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--pack-counts">
 
-SPIELER
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
 
-24ITEMS
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">22</span><span class="label">ITEMS</span></div>
 
-24SELTEN
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">22</span><span class="label">RARE</span></div>
 
-Einzigartige Topspieler, in einem Pack vereint! 24 Spieler, alle Gold, alle Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+Prime Gaming exclusive Pack! Contains 7 Gold Rare Players, 2 Player Pick with min OVR 82+, 12 Rare Consumables and 1 Neymar on 20 games loan<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-SELTENE ELECTRUM-SPIELER
-========================
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+</div>
 
-SPIELER
+<div class="ut-store-pack-details-view is-untradeable"># <span>FIVE 83+ RARE EFIGS PLAYERS PACK</span>
 
-12ITEMS
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-12SELTEN
+<div class="ut-store-pack-details-view--content">
 
-Hybrid-Pack mit Gold- und Silberspielern! Enthält 12 Spieler, 6 Gold, 6 Silber, ALLE Selten.
+<div class="ut-store-pack-details-view--pack-counts">
 
-ÖffnenHol dir dein Pack
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-SELTENE ELECTRUM-SPIELER
-========================
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">5</span><span class="label">ITEMS</span></div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">5</span><span class="label">RARE</span></div>
 
-SPIELER
+</div>
 
-12ITEMS
+Contains 5 Gold Rare Players from Premier League, Ligue 1, Serie A, Bundesliga, and LaLiga rated 83 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-12SELTEN
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-Hybrid-Pack mit Gold- und Silberspielern! Enthält 12 Spieler, 6 Gold, 6 Silber, ALLE Selten.
+</div>
 
-ÖffnenHol dir dein Pack
+<div class="ut-store-pack-details-view is-untradeable"># <span>ELEVEN 81+ LALIGA PACK</span>
 
-PRIME-GEMISCHTE-SPIELER
-=======================
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
 
-![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)
+<div class="ut-store-pack-details-view--content">
 
-SPIELER
+<div class="ut-store-pack-details-view--pack-counts">
 
-12ITEMS
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
 
-6SELTEN
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">11</span><span class="label">ITEMS</span></div>
 
-Nichts als Spieler. Ideal, um ultimative Mannschaften aufzubauen. 12 Spieler, 4 Gold, 4 Silber, 4 Bronze, 6 Selten.
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">11</span><span class="label">RARE</span></div>
 
-ÖffnenHol dir dein Pack
+</div>
 
-StartseiteMannschaftTransfersShop
+Contains 11 Gold Rare Players from LaLiga rated 81 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
 
-VereinSBCStadionBestenlistenEinstellungen
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
 
-![](images/loader.gif)
+</div>
 
-FENSTERGRÖSSE ANPASSEN
-======================
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 80+ RARE EFIGS PLAYERS PACK</span>
 
-Bitte erhöhe die Größe deines Internetbrowser-Fensters, um die Inhalte anzuzeigen.
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
+
+</div>
+
+Contains 2 Gold Rare Players from Premier League, Ligue 1, Serie A, Bundesliga, and LaLiga rated 80 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>TWO 80+ RARE EFIGS PLAYERS PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">2</span><span class="label">RARE</span></div>
+
+</div>
+
+Contains 2 Gold Rare Players from Premier League, Ligue 1, Serie A, Bundesliga, and LaLiga rated 80 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>ELEVEN 81+ PREMIER LEAGUE PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">11</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">11</span><span class="label">RARE</span></div>
+
+</div>
+
+Contains 11 Gold Rare Players from Premier League rated 81 or higher<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>PREMIUM GOLD JUMBO</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>PREMIUM GOLD JUMBO</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>PREMIUM GOLD JUMBO</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Pack with an extra Rare! A mix of 24 Gold items, including players and consumables, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 Gold players, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 Gold players, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_3.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 Gold players, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>JUMBO PREMIUM GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_1.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">7</span><span class="label">RARE</span></div>
+
+</div>
+
+Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 Gold players, 7 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>SMALL PRIME GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_2.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
+
+</div>
+
+Half a dozen players to build out your ultimate squads! Includes 6 Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>SMALL PRIME GOLD PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_3.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_3_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">3</span><span class="label">RARE</span></div>
+
+</div>
+
+Half a dozen players to build out your ultimate squads! Includes 6 Gold players, 3 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE GOLD PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique Gold items, all in a single pack! A mix of 12 Gold items, including players and consumables, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE GOLD PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique Gold items, all in a single pack! A mix of 12 Gold items, including players and consumables, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE GOLD PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique Gold items, all in a single pack! A mix of 12 Gold items, including players and consumables, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE GOLD PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell mixed"><span class="label">MIXED</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique Gold items, all in a single pack! A mix of 12 Gold items, including players and consumables, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 12 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>JUMBO RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 24 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>JUMBO RARE PLAYER PACK</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">24</span><span class="label">RARE</span></div>
+
+</div>
+
+The most unique top-rated players, all in a single pack! Includes 24 items, all players, all Gold, all Rare.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE ELECTRUM PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+A hybrid pack with a split of Gold and Silver players! Includes 12 players, 6 Gold, 6 Silver, ALL Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-untradeable"># <span>RARE ELECTRUM PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">RARE</span></div>
+
+</div>
+
+A hybrid pack with a split of Gold and Silver players! Includes 12 players, 6 Gold, 6 Silver, ALL Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+<div class="ut-store-pack-details-view is-tradeable"># <span>PRIME MIXED PLAYERS</span>
+
+<div class="basePack ut-pack-graphic-view">![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_backgrounds_4.png)![](https://www.ea.com/fifa/ultimate-team/web-app/content/22747632-e3df-4904-b3f6-bb0035736505/2022/fut/packs/images/web/packs_foregrounds_4_0.png)</div>
+
+<div class="ut-store-pack-details-view--content">
+
+<div class="ut-store-pack-details-view--pack-counts">
+
+<div class="pack-type ut-store-pack-details-view--pack-counts-cell players"><span class="label">PLAYERS</span></div>
+
+<div class="total ut-store-pack-details-view--pack-counts-cell"><span class="value">12</span><span class="label">ITEMS</span></div>
+
+<div class="rare ut-store-pack-details-view--pack-counts-cell"><span class="value">6</span><span class="label">RARE</span></div>
+
+</div>
+
+Nothing but players to build out your ultimate squads! Includes 12 players, 4 Gold, 4 Silver, 4 Bronze, with 6 Rares.<span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span><span class="label"></span><span class="value"></span></div>
+
+<div class="ut-store-pack-details-view--footer"><button class="currency call-to-action"><span class="text">Open</span><span class="subtext">Claim your Pack</span></button></div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<nav class="ut-tab-bar"><button class="ut-tab-bar-item icon-home"><span>Home</span></button><button class="ut-tab-bar-item icon-squad"><span>Squads</span></button><button class="ut-tab-bar-item icon-transfer"><span>Transfers</span></button><button class="ut-tab-bar-item icon-store selected ut-tab-bar-item--default-to-root"><span>Store</span></button><button class="ut-tab-bar-item icon-club"><span>Club</span></button><button class="ut-tab-bar-item icon-sbc"><span>SBC</span></button><button class="ut-tab-bar-item icon-stadium"><span>Stadium</span></button><button class="ut-tab-bar-item icon-leaderboards"><span>Leaderboards</span></button><button class="ut-tab-bar-item icon-settings"><span>Settings</span></button></nav>
+
+</section>
+
+</main>
+
+<div class="ut-click-shield">![](images/loader.gif)</div>
+
+<div class="ui-orientation-warning">
+
+<section class="ea-dialog-view ea-dialog-view-type--rotate">
+
+<header># RESIZE WINDOW</header>
+
+<div class="ea-dialog-view--body">Please increase the size of your web browser window to display the content.</div>
+
+</section>
+
+</div>
